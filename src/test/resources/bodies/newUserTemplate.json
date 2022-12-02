@@ -1,0 +1,7 @@
+{
+  "id": "#{id}",
+ "email": "#{email}",
+ "firstName": "#{firstName}",
+ "lastName": "#{lastName}",
+ "imagePath": "#{imagePath}"
+}
